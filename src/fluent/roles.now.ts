@@ -2,7 +2,7 @@ import { Role } from '@servicenow/sdk/core'
 
 export const requesterRole = Role({
     name: 'x_snc_maintenance.requester',
-    description: 'Can create and view maintenance requests',
+    description: 'Can create and view maintenance requests. hogehogehogehoge',
 })
 
 export const maintainerRole = Role({
