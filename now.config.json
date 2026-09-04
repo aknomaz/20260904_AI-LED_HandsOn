@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_maintenance",
+    "scopeId": "8f2ec653445a43208555fcdab1f20c2d",
+    "name": "Maintenance_matsumoto_akane",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
